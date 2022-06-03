@@ -5,3 +5,4 @@ I am learning to commit
 changes are just temporary
 
 changes in branch1
+changes in master branch
