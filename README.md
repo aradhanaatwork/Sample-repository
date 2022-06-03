@@ -5,3 +5,7 @@ This is a sample repository for learning
 ## subheader
 
 welcome to the world of git
+
+### anotherheader
+
+checking for branches
